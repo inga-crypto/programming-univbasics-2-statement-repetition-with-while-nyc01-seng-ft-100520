@@ -1,4 +1,5 @@
 # Write your code here
+magic_exit_number = 0
 i = 10
 while i > 0 do
   puts i
